@@ -1,0 +1,12 @@
+site_name: K. Elder, DVM
+
+nav:
+  - Home: index.md
+  - My Narrative: elder.md
+  - Markdown: Accessibility assignment.md
+  - DITA: cats_and_fleas.pdf
+
+theme: readthedocs
+
+
+
